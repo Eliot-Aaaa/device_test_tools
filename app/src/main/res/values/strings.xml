@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DeviceTestTool</string>
+    <string name="title_device_info">Device Info</string>
+    <string name="title_wifi">Wi-Fi</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="title_audio">Audio</string>
+    <string name="title_video">Video</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_web">Webview</string>
+
+    <!--  device info   -->
+    <string name="device_info_model">Model</string>
+    <string name="device_info_storage">Storage</string>
+    <string name="device_info_memory">Memory</string>
+
+    <!-- Bluetooth -->
+    <string name="bluetooth_name">Bluetooth</string>
+    <string name="bluetooth_no_device">There is no bluetooth device</string>
+
+    <!-- audio -->
+    <string name="audio_play_tag">Audio Play</string>
+    <string name="audio_play_title">Audio Play</string>
+    <string name="audio_record_tag">Audio Record</string>
+    <string name="audio_record_title">Audio Record</string>
+
+    <!-- Camera -->
+    <string name="camera_num">Camera Num</string>
+    <string name="camera_info">Camera Info</string>
+    <string name="camera_index">Index</string>
+    <string name="camera_support_preview_size">Supported Preview Size</string>
+    <string name="camera_support_picture_size">Supported Picture Size</string>
+    <string name="camera_size_title">width * height</string>
+    <string name="camera_index_select_title">Please select one camera</string>
+    <string name="camera_size_select_title">Please select one size</string>
+</resources>
